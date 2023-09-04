@@ -3,7 +3,7 @@
 <html>
 
 <head>
-    <title></title>
+    <title>Car Zone {% block title%}  {% endblock %}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
 
@@ -43,8 +43,8 @@
  
 <body>
 <div class="page_loader"></div>
-{% include 'include/topbar.html' %}
-{% include 'include/navbar.html' %}
+{% include 'includes/topbar.html' %}
+{% include 'includes/navbar.html' %}
 
 
 {% block content %}
@@ -58,7 +58,7 @@
         <button type="submit" class="btn btn-sm button-theme">Search</button>
     </form>
 </div>
-{% include 'include/footer.html' %}
+{% include 'includes/footer.html' %}
 <script src=" {% static 'js/jquery-2.2.0.min.js' %}"></script>
 <script src=" {% static 'js/popper.min.js'%}"></script>
 <script src="{% static 'js/bootstrap.min.js' %} "></script>

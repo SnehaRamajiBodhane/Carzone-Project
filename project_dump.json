@@ -1,0 +1,592 @@
+[
+{
+    "model": "cars.car",
+    "pk": 1,
+    "fields": {
+        "car_title": "2017 Ferrari 488 GBT",
+        "state": "CO",
+        "city": "Texas",
+        "color": "White",
+        "model": "488 GBT",
+        "year": 2017,
+        "condition": "Used",
+        "price": 40000,
+        "description": "<p>The <strong>Ferrari 488</strong> (Type F142M) is a <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Rear_mid-engine,_rear-wheel_drive_layout\" title=\"Rear mid-engine, rear-wheel drive layout\">mid-engine</a> <a href=\"https://en.wikipedia.org/wiki/Sports_car\" title=\"Sports car\">sports car</a> produced by the Italian automobile manufacturer <a href=\"https://en.wikipedia.org/wiki/Ferrari\" title=\"Ferrari\">Ferrari</a>. The car replaced the <a href=\"https://en.wikipedia.org/wiki/Ferrari_458\" title=\"Ferrari 458\">458</a>, being the first mid-engine Ferrari to use a turbocharged V8 since the <a href=\"https://en.wikipedia.org/wiki/Ferrari_F40\" title=\"Ferrari F40\">F40</a>. It was succeeded by the <a href=\"https://en.wikipedia.org/wiki/Ferrari_F8\" title=\"Ferrari F8\">Ferrari F8</a>.</p>\r\n\r\n<p>The car is powered by a 3.9-litre <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Twin-turbocharged\" title=\"Twin-turbocharged\">twin-turbocharged</a> <a href=\"https://en.wikipedia.org/wiki/V8_engine\" title=\"V8 engine\">V8 engine</a>, smaller in displacement but generating a higher power output than the 458&#39;s <a href=\"https://en.wikipedia.org/wiki/Naturally_aspirated_engine\" title=\"Naturally aspirated engine\">naturally aspirated engine</a>. The 488 GTB was named &quot;The Supercar of the Year 2015&quot; by car magazine <em><a href=\"https://en.wikipedia.org/wiki/Top_Gear_(magazine)\" title=\"Top Gear (magazine)\">Top Gear</a></em>, as well as becoming <em><a href=\"https://en.wikipedia.org/wiki/Motor_Trend\" title=\"Motor Trend\">Motor Trend</a></em>&#39;s 2017 &quot;Best Driver&#39;s Car&quot;.<a href=\"https://en.wikipedia.org/wiki/Ferrari_488#cite_note-7\">[7]</a> <a href=\"https://en.wikipedia.org/wiki/Jeremy_Clarkson\" title=\"Jeremy Clarkson\">Jeremy Clarkson</a> announced the 488 Pista as his 2019 Supercar of the Year.<a href=\"https://en.wikipedia.org/wiki/Ferrari_488#cite_note-8\">[8]</a></p>",
+        "car_photo": "photo/2023/08/11/1902536891_kcYzSxv.jpg",
+        "car_photo_1": "photo/2023/08/11/1902536917_xFarFAj.jpg",
+        "car_photo_2": "photo/2023/08/11/1902537043_PCTKB3D.jpg",
+        "car_photo_3": "photo/2023/08/11/1902537043_dfDE3XD.jpg",
+        "car_photo_4": "photo/2023/08/11/1902537082_4z0hcVj.jpg",
+        "featuers": "Cruise Control,Airbags,Auto Start/Stop,Wind Deflector,Bluetooth Handset",
+        "body_style": "Sport",
+        "engine": "3.4L Mid-Engine V6",
+        "transmission": "Atuomatic",
+        "interior": "Grey",
+        "miles": 10000,
+        "doors": "2",
+        "passengers": 2,
+        "vin_no": "WEARTC345DFG",
+        "milage": 5,
+        "fuel_type": "Pretol",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2023-08-11T12:43:05Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 2,
+    "fields": {
+        "car_title": "2017 Ford Edge",
+        "state": "AR",
+        "city": "Austin",
+        "color": "Black",
+        "model": "Ford Edge",
+        "year": 2017,
+        "condition": "Used",
+        "price": 35000,
+        "description": "<div>For the 1990s-2000s Ford design theme, see <a href=\"https://en.wikipedia.org/wiki/New_Edge\" title=\"New Edge\">New Edge</a>.</div>\r\n\r\n<table class=\"hproduct infobox\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<th colspan=\"2\" style=\"background-color:#c0c0c0; text-align:center\">Ford Edge</th>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td colspan=\"2\"><a class=\"mw-file-description\" href=\"https://en.wikipedia.org/wiki/File:2019_Ford_Edge_SEL_EcoBoost_AWD_2.0L_front_4.6.19.jpg\"><img class=\"mw-file-element\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2019_Ford_Edge_SEL_EcoBoost_AWD_2.0L_front_4.6.19.jpg/280px-2019_Ford_Edge_SEL_EcoBoost_AWD_2.0L_front_4.6.19.jpg\" style=\"height:159px; width:280px\" /></a>\r\n\t\t\t<div>2019 Ford Edge SEL EcoBoost AWD (US)</div>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<th colspan=\"2\" style=\"background-color:#c0c0c0\">Overview</th>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<th scope=\"row\">Manufacturer</th>\r\n\t\t\t<td><a href=\"https://en.wikipedia.org/wiki/Ford_Motor_Company\" title=\"Ford Motor Company\">Ford</a></td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<th scope=\"row\">Production</th>\r\n\t\t\t<td>2006&ndash;present</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<th scope=\"row\"><a href=\"https://en.wikipedia.org/wiki/Model_year\" title=\"Model year\">Model&nbsp;years</a></th>\r\n\t\t\t<td>2007&ndash;present (US)<br />\r\n\t\t\t2016&ndash;2021 (Europe)<br />\r\n\t\t\t2015&ndash;2019 (UK)</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<th colspan=\"2\" style=\"background-color:#c0c0c0\">Body and chassis</th>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<th scope=\"row\"><a href=\"https://en.wikipedia.org/wiki/Car_classification\" title=\"Car classification\">Class</a></th>\r\n\t\t\t<td><a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Mid-size_crossover_SUV\" title=\"Mid-size crossover SUV\">Mid-size crossover SUV</a><a href=\"https://en.wikipedia.org/wiki/Ford_Edge#cite_note-1\">[1]</a><a href=\"https://en.wikipedia.org/wiki/Ford_Edge#cite_note-2\">[2]</a></td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<th scope=\"row\"><a href=\"https://en.wikipedia.org/wiki/Car_body_style\" title=\"Car body style\">Body&nbsp;style</a></th>\r\n\t\t\t<td>5-door <a href=\"https://en.wikipedia.org/wiki/SUV\" title=\"SUV\">SUV</a></td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<th scope=\"row\"><a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Automobile_layout\" title=\"Automobile layout\">Layout</a></th>\r\n\t\t\t<td><a href=\"https://en.wikipedia.org/wiki/Front-engine,_front-wheel-drive_layout\" title=\"Front-engine, front-wheel-drive layout\">Front-engine, front-wheel drive</a> / <a href=\"https://en.wikipedia.org/wiki/All-wheel_drive\" title=\"All-wheel drive\">all-wheel drive</a></td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>The <strong>Ford Edge</strong> is a range of <a href=\"https://en.wikipedia.org/wiki/Crossover_(automobile)\" title=\"Crossover (automobile)\">crossover SUVs</a> manufactured by the <a href=\"https://en.wikipedia.org/wiki/Ford_Motor_Company\" title=\"Ford Motor Company\">Ford Motor Company</a>. Introduced for the 2007 model year, the Edge is the first <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Mid-size_CUV\" title=\"Mid-size CUV\">mid-size CUV</a> marketed by Ford in North America; the model line is currently in its second generation. Deriving its name from a trim package of the <a href=\"https://en.wikipedia.org/wiki/Ford_Ranger_(Americas)\" title=\"Ford Ranger (Americas)\">Ford Ranger</a>, the Ford Edge is positioned between the <a href=\"https://en.wikipedia.org/wiki/Ford_Escape\" title=\"Ford Escape\">Ford Escape</a> and the <a href=\"https://en.wikipedia.org/wiki/Ford_Explorer\" title=\"Ford Explorer\">Ford Explorer</a> within the Ford product line.</p>\r\n\r\n<p>Sharing its underpinnings with the <a href=\"https://en.wikipedia.org/wiki/Ford_Fusion_(Americas)\" title=\"Ford Fusion (Americas)\">Ford Fusion sedan</a>, Ford has also produced the model line as the <a href=\"https://en.wikipedia.org/wiki/Lincoln_MKX\" title=\"Lincoln MKX\">Lincoln MKX</a> (since 2019, the Lincoln Nautilus). The second generation is also marketed by <a href=\"https://en.wikipedia.org/wiki/Ford_of_Europe\" title=\"Ford of Europe\">Ford of Europe</a>, positioned between the Kuga (Escape) and the Explorer PHEV.</p>\r\n\r\n<p>All production of the first two generations of the Ford Edge is sourced from <a href=\"https://en.wikipedia.org/wiki/Ford_Motor_Company_of_Canada\" title=\"Ford Motor Company of Canada\">Ford of Canada</a> at <a href=\"https://en.wikipedia.org/wiki/Oakville_Assembly\" title=\"Oakville Assembly\">Oakville Assembly</a> (<a href=\"https://en.wikipedia.org/wiki/Oakville,_Ontario\" title=\"Oakville, Ontario\">Oakville, Ontario</a>) alongside the Nautilus.</p>\r\n\r\n<p>The third generation launched in 2023 is called the Edge L, and was first produced and sold exclusively in China.</p>",
+        "car_photo": "photo/2023/08/11/1901478607.jpg",
+        "car_photo_1": "photo/2023/08/11/1901478618.jpg",
+        "car_photo_2": "photo/2023/08/11/1901478646.jpg",
+        "car_photo_3": "photo/2023/08/11/1901478672.jpg",
+        "car_photo_4": "photo/2023/08/11/1901478687.jpg",
+        "featuers": "Air Conditioning,Seat Heating,Alarm System,Auto Start/Stop,Bluetooth Handset",
+        "body_style": "5-door SUV",
+        "engine": "3.7 L Duratec V6",
+        "transmission": "Atuomatic",
+        "interior": "Grey",
+        "miles": 15000,
+        "doors": "5",
+        "passengers": 5,
+        "vin_no": "WEARTC345DFG",
+        "milage": 10000,
+        "fuel_type": "Petrol",
+        "no_of_owners": "2",
+        "is_featured": true,
+        "created_date": "2023-08-11T13:47:03Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 3,
+    "fields": {
+        "car_title": "2017 Ford F-250 Super Duty",
+        "state": "FL",
+        "city": "Georgia",
+        "color": "Black",
+        "model": "F-250 Super Duty",
+        "year": 2017,
+        "condition": "Used",
+        "price": 45000,
+        "description": "<p>The <strong>Ford Super Duty</strong> (also known as the <strong>Ford F-Series Super Duty</strong>) is a series of heavy-duty pickup trucks produced by the <a href=\"https://en.wikipedia.org/wiki/Ford_Motor_Company\" title=\"Ford Motor Company\">Ford Motor Company</a> since the 1999 model year. Slotted above the consumer-oriented Ford <a href=\"https://en.wikipedia.org/wiki/Ford_F-Series\" title=\"Ford F-Series\">F-150</a>, the Super Duty trucks are an expansion of the Ford F-Series range, from F-250 to the F-600. The F-250 through F-450 are offered as pickup trucks, while the F-350 through F-600 are offered as <a href=\"https://en.wikipedia.org/wiki/Chassis_cab\" title=\"Chassis cab\">chassis cabs</a>.</p>\r\n\r\n<p>Rather than adapting the lighter-duty F-150 truck for heavier use, Super Duty trucks have been designed as a dedicated variant of the Ford F-Series. The heavier-duty chassis components allows for heavier payloads and towing capabilities. With a <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Gross_vehicle_weight_rating\" title=\"Gross vehicle weight rating\">GVWR</a> over 8,500&nbsp;lb (3,900&nbsp;kg), Super Duty pickups are <a href=\"https://en.wikipedia.org/wiki/Truck_classification\" title=\"Truck classification\">Class 2 and 3</a> trucks, while chassis-cab trucks are offered in <a href=\"https://en.wikipedia.org/wiki/Truck_classification\" title=\"Truck classification\">Class 3, 4 and 5</a>. The model line also offers <a href=\"https://en.wikipedia.org/wiki/Ford_Power_Stroke_engine\" title=\"Ford Power Stroke engine\">Ford Power Stroke</a> V8 diesel engines as an option.</p>\r\n\r\n<p>Ford also sells a <a href=\"https://en.wikipedia.org/wiki/Ford_F-Series_(medium_duty_truck)\" title=\"Ford F-Series (medium duty truck)\">medium duty truck version of the Ford F-Series</a> (F-650 and F-750), which is sometimes branded as the Super Duty, but is another chassis variant. The Super Duty pickup truck also served as the basis for the <a href=\"https://en.wikipedia.org/wiki/Ford_Excursion\" title=\"Ford Excursion\">Ford Excursion</a> full-sized SUV.</p>\r\n\r\n<p>The Super Duty trucks and chassis-cabs are assembled at the <a href=\"https://en.wikipedia.org/wiki/Kentucky_Truck_Assembly\" title=\"Kentucky Truck Assembly\">Kentucky Truck Plant</a> in <a href=\"https://en.wikipedia.org/wiki/Louisville,_Kentucky\" title=\"Louisville, Kentucky\">Louisville, Kentucky</a>, and at <a href=\"https://en.wikipedia.org/wiki/Ohio_Assembly\" title=\"Ohio Assembly\">Ohio Assembly</a> in <a href=\"https://en.wikipedia.org/wiki/Avon_Lake,_Ohio\" title=\"Avon Lake, Ohio\">Avon Lake, Ohio</a>. Prior to 2016, medium-duty trucks were assembled in Mexico under the <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Navistar_International#Blue_Diamond_Truck\" title=\"Navistar International\">Blue Diamond Truck</a> joint venture with Navistar International.</p>",
+        "car_photo": "photo/2023/08/11/1894300894.jpg",
+        "car_photo_1": "photo/2023/08/11/1894300905.jpg",
+        "car_photo_2": "photo/2023/08/11/1894300920.jpg",
+        "car_photo_3": "photo/2023/08/11/1900155012.jpg",
+        "car_photo_4": "photo/2023/08/11/1900155133.jpg",
+        "featuers": "Airbags,Seat Heating,Reversing Camera,Auto Start/Stop",
+        "body_style": "Ford Excursion     Ford F-150",
+        "engine": "4.2 L Essex V6 engine",
+        "transmission": "5-speed manual",
+        "interior": "Grey",
+        "miles": 15000,
+        "doors": "4",
+        "passengers": 4,
+        "vin_no": "WEASDF453AZD",
+        "milage": 15000,
+        "fuel_type": "Petrol",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2023-08-11T13:54:20Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 4,
+    "fields": {
+        "car_title": "2017 Jaguar F-PACE",
+        "state": "CO",
+        "city": "Folrida",
+        "color": "Blue",
+        "model": "Jaguar F-PACE",
+        "year": 2018,
+        "condition": "Used",
+        "price": 45000,
+        "description": "<p>The <strong>Jaguar F-Pace</strong> (X761) is a <a href=\"https://en.wikipedia.org/wiki/Compact_crossover_SUV#Luxury_vehicles\" title=\"Compact crossover SUV\">compact luxury crossover SUV</a> made by <a href=\"https://en.wikipedia.org/wiki/Jaguar_Land_Rover\" title=\"Jaguar Land Rover\">Jaguar Land Rover</a>, a British <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Automaker\" title=\"Automaker\">car manufacturer</a>, under their <a href=\"https://en.wikipedia.org/wiki/Jaguar_Cars\" title=\"Jaguar Cars\">Jaguar marque</a>. It is the first model to be built by Jaguar in the SUV class. It was formally announced at the <a href=\"https://en.wikipedia.org/wiki/North_American_International_Auto_Show#2015\" title=\"North American International Auto Show\">2015 North American International Auto Show</a> in Detroit, with sales commencing in 2016 following an unveiling at the <a href=\"https://en.wikipedia.org/wiki/International_Motor_Show_Germany#2015\" title=\"International Motor Show Germany\">International Motor Show Germany</a> in Frankfurt in September 2015.<a href=\"https://en.wikipedia.org/wiki/Jaguar_F-Pace#cite_note-4\">[4]</a> The design of the F-Pace is based on the 2013 <a href=\"https://en.wikipedia.org/wiki/Jaguar_C-X17\" title=\"Jaguar C-X17\">Jaguar C-X17</a> concept car.<a href=\"https://en.wikipedia.org/wiki/Jaguar_F-Pace#cite_note-BBC_News_120115-5\">[5]</a> The 2017 Jaguar F-PACE has been named the honorary winner of the 2017 World Car of the Year and World Car Design of the Year Awards at the <a href=\"https://en.wikipedia.org/wiki/New_York_International_Auto_Show\" title=\"New York International Auto Show\">New York International Auto Show</a>.<a href=\"https://en.wikipedia.org/wiki/Jaguar_F-Pace#cite_note-6\">[6]</a></p>\r\n\r\n<p>The F-Pace is built at <a href=\"https://en.wikipedia.org/wiki/Jaguar_Land_Rover\" title=\"Jaguar Land Rover\">Jaguar Land Rover</a>&#39;s <a href=\"https://en.wikipedia.org/wiki/Solihull_plant\" title=\"Solihull plant\">Solihull plant</a> along with the <a href=\"https://en.wikipedia.org/wiki/Range_Rover_Velar\" title=\"Range Rover Velar\">Range Rover Velar</a> and employs an additional 1,300 workers.</p>",
+        "car_photo": "photo/2023/08/11/1902932503.jpg",
+        "car_photo_1": "photo/2023/08/11/1902932514.jpg",
+        "car_photo_2": "photo/2023/08/11/1902932528.jpg",
+        "car_photo_3": "photo/2023/08/11/1902932503_4XL34fR.jpg",
+        "car_photo_4": "photo/2023/08/11/1902932542.jpg",
+        "featuers": "Airbags,Alarm System,Power Steering,Auto Start/Stop,Bluetooth Handset",
+        "body_style": "5-door 4x4",
+        "engine": "Petrol:S     2.0 L Ingenium I4     2.0 L Ingenium P400e PHEV I4     3.0 L AJ126 V6     5.0 L",
+        "transmission": "automatic transmission",
+        "interior": "Grey",
+        "miles": 250000,
+        "doors": "4",
+        "passengers": 4,
+        "vin_no": "WEADRV1234WER",
+        "milage": 150000,
+        "fuel_type": "Petrol",
+        "no_of_owners": "2",
+        "is_featured": true,
+        "created_date": "2023-08-11T14:01:25Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 1,
+    "fields": {
+        "last_name": "Stone",
+        "first_name": "Carolyn",
+        "designation": "Creative Director",
+        "photo": "photos/2023/08/10/avatar-9.jpg",
+        "facebook_link": "https://facebook.com",
+        "twitter_link": "https://twitter.com",
+        "google_plus_link": "https://google.com",
+        "created_date": "2023-08-10T14:47:09.052Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 2,
+    "fields": {
+        "last_name": "Martine",
+        "first_name": "Simth",
+        "designation": "Web Developer",
+        "photo": "photos/2023/08/10/avatar-12.jpg",
+        "facebook_link": "https://facebook.com",
+        "twitter_link": "https://twitter.com",
+        "google_plus_link": "https://google.com",
+        "created_date": "2023-08-10T14:48:48.118Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 3,
+    "fields": {
+        "last_name": "Brandon",
+        "first_name": "Miller",
+        "designation": "Manager",
+        "photo": "photos/2023/08/10/avatar-11.jpg",
+        "facebook_link": "https://facebook.com",
+        "twitter_link": "https://twitter.com",
+        "google_plus_link": "https://google.com",
+        "created_date": "2023-08-10T14:49:56.896Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 4,
+    "fields": {
+        "last_name": "Michelle",
+        "first_name": "Nelson",
+        "designation": "Support Manager",
+        "photo": "photos/2023/08/10/avatar-1.jpg",
+        "facebook_link": "https://facebook.com",
+        "twitter_link": "https://twitter.com",
+        "google_plus_link": "https://google.com",
+        "created_date": "2023-08-10T14:51:06.718Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 5,
+    "fields": {
+        "last_name": "John",
+        "first_name": "Deo",
+        "designation": "CEO",
+        "photo": "photos/2023/08/10/avatar-3.jpg",
+        "facebook_link": "https://facebook.com",
+        "twitter_link": "https://twitter.com",
+        "google_plus_link": "https://google.com",
+        "created_date": "2023-08-10T14:52:37.640Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 1,
+    "fields": {
+        "first_name": "sneha",
+        "last_name": "Bodhane",
+        "car_id": 1,
+        "customer_need": "I'm interested in this",
+        "car_title": "2017 Ferrari 488 GBT",
+        "city": "Kalmeshwar",
+        "state": "Maharashtra",
+        "email": "sneha@gmail.com",
+        "phone": "08010275339",
+        "message": "asdff",
+        "user_id": 1,
+        "create_date": "2023-08-15T11:18:21.516Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 2,
+    "fields": {
+        "first_name": "gaurav",
+        "last_name": "Bodhane",
+        "car_id": 4,
+        "customer_need": "I'm interested in this",
+        "car_title": "2017 Jaguar F-PACE",
+        "city": "Kalmeshwar",
+        "state": "Maharashtra",
+        "email": "gaurav@123gmail.com",
+        "phone": "08010275339",
+        "message": "test ",
+        "user_id": 1,
+        "create_date": "2023-08-15T11:36:47.303Z"
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$600000$JaLkeNCEHIOdFHfzIGVDvc$FuOFkneOsaYgP5vvsopDbOeqQgOVb0tepWp0fJIrY0k=",
+        "last_login": "2023-08-15T08:01:43.953Z",
+        "is_superuser": true,
+        "username": "sneha",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2023-08-10T14:15:06.406Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "sites.site",
+    "fields": {
+        "domain": "example.com",
+        "name": "example.com"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2023-08-10T14:47:09.056Z",
+        "user": [
+            "sneha"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Carolyn",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2023-08-10T14:48:48.124Z",
+        "user": [
+            "sneha"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "2",
+        "object_repr": "Simth",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2023-08-10T14:49:56.896Z",
+        "user": [
+            "sneha"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "3",
+        "object_repr": "Miller",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2023-08-10T14:51:06.718Z",
+        "user": [
+            "sneha"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "4",
+        "object_repr": "Nelson",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2023-08-10T14:52:37.640Z",
+        "user": [
+            "sneha"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "5",
+        "object_repr": "Deo",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2023-08-11T08:15:51.135Z",
+        "user": [
+            "sneha"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "2017 Ferrari 488 GBT",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2023-08-11T08:24:12.693Z",
+        "user": [
+            "sneha"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "2017 Ford Edge",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2023-08-11T08:31:15.074Z",
+        "user": [
+            "sneha"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "2017 Ford F-250 Super Duty",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2023-08-11T08:38:37.748Z",
+        "user": [
+            "sneha"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "2017 Jaguar F-PACE",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2023-08-11T08:49:23.997Z",
+        "user": [
+            "sneha"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "5",
+        "object_repr": "BMW",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2023-08-11T14:50:46.814Z",
+        "user": [
+            "sneha"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "2017 Jaguar F-PACE",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2023-08-11T14:50:46.834Z",
+        "user": [
+            "sneha"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "2017 Ford F-250 Super Duty",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2023-08-11T14:51:20.709Z",
+        "user": [
+            "sneha"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "2017 Jaguar F-PACE",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2023-08-11T15:25:03.700Z",
+        "user": [
+            "sneha"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "2017 Jaguar F-PACE",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2023-08-12T07:01:06.765Z",
+        "user": [
+            "sneha"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "5",
+        "object_repr": "BMW",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2023-08-12T07:01:06.765Z",
+        "user": [
+            "sneha"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "2017 Jaguar F-PACE",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2023-08-12T07:01:06.765Z",
+        "user": [
+            "sneha"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "2017 Ford F-250 Super Duty",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2023-08-12T07:18:21.020Z",
+        "user": [
+            "sneha"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "5",
+        "object_repr": "BMW",
+        "action_flag": 3,
+        "change_message": ""
+    }
+}
+]
